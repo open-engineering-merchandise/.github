@@ -88,7 +88,7 @@ Open Engineering Merchandise may include many kinds of physical artifacts.
 Beer mats and coasters for events, meetups, workshops, demonstrations, and informal conversations.
 
 For example:
-
+```
 FRONT
 Open Engineering
 visual identity
@@ -96,7 +96,7 @@ visual identity
 BACK
 Open Engineering
 QR code
-
+```
 The QR code can use campaign-specific URLs so engagement originating from physical artifacts can be measured.
 
 ⸻
