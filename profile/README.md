@@ -12,7 +12,7 @@
 
 ⸻
 
-#€ About
+## About
 
 Open Engineering Merchandise is the home of physical artifacts created for and around the Open Engineering ecosystem.
 
